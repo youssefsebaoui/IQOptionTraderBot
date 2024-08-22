@@ -17,7 +17,6 @@ else:
     exit(1)
 
 # Configurations
-asset = "EURUSD"
 candle_timeframe = 60  # 1 minute
 trade_duration = 1  # 1 minute
 amount = 1.5
